@@ -1,0 +1,40 @@
+{
+    "name": "codereeve",
+    "version": "1.0.0",
+    "description": "An online judge software",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vinayannam/codereeve.git"
+    },
+    "author": "Vinay & Arun",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vinayannam/codereeve/issues"
+    },
+    "homepage": "https://github.com/vinayannam/codereeve#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.3",
+        "compile-run": "^2.1.4",
+        "connect-flash": "^0.1.1",
+        "cookie-parser": "^1.4.3",
+        "express": "^4.16.3",
+        "express-fileupload": "^1.0.0",
+        "express-handlebars": "^3.0.0",
+        "express-session": "^1.15.6",
+        "express-validator": "^5.3.0",
+        "glob": "^7.1.3",
+        "jssoup": "0.0.10",
+        "mongodb": "^3.1.4",
+        "mongoose": "^5.2.14",
+        "passport": "^0.4.0",
+        "passport-local": "^1.0.0",
+        "popper.js": "^1.14.4",
+        "python-shell": "^1.0.6"
+    }
+}
